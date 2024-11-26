@@ -34,4 +34,6 @@
 
 
 
-![logo](logo/KPUUDATA.png)
+<p align="center">
+  <img src="logo/KPUUDATA.png" alt="logo" width="300"/>
+</p>
